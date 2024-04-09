@@ -4,7 +4,7 @@ I am Rahul.
 
 I live in [Berlin, Germany](https://en.wikipedia.org/wiki/Berlin) with my wife Jay. 
 
-In my day job, I work as [Head of Business Intelligence and Analytics Engineering at Beat](https://www.linkedin.com/in/rahul-jain-83055b45/).
+In my day job, I work as [Principal Engineer at Bobsled](https://www.linkedin.com/in/rahul-jain-83055b45/).
 
 I frequently code, sometimes blog and often [tweet](https://twitter.com/rahulj51) about data, software engineering and engineering leadership.
 
